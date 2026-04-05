@@ -1,33 +1,23 @@
 cff-version: 1.2.0
-message: "If you use ProMetrix Analytics in your research, please cite it using the metadata below."
-title: "ProMetrix Analytics: Statistical Analysis & Publication-Quality Visualization"
-version: 2.2.0
-date-released: 2026-04-05
+message: "If you use this software, please cite it as below."
+type: software
+title: "ProMetrix Analytics"
+version: "2.2.0"
+date-released: "2026-04-05"
 license: MIT
-authors:
-
-family-names: Omar
-given-names: M S
-affiliation: "Indiana University School of Dentistry"
-abstract: >
-ProMetrix Analytics is an open-source desktop application for rigorous statistical
-analysis and publication-ready visualization in dental and biomedical research.
-It implements an adaptive pipeline including Shapiro-Wilk normality testing,
-Levene variance testing, Kruskal-Wallis and one-way ANOVA omnibus tests,
-Welch ANOVA sensitivity analysis, Mann-Whitney U pairwise comparisons with
-Bonferroni correction, Hedges' g effect sizes with bootstrap confidence intervals,
-and minimum detectable effect calculations. The application generates
-publication-quality figures (raincloud, bar, scatter, heatmap) and exports
-complete Word reports with manuscript-ready statistical text.
-keywords:
-statistics
-prosthodontics
-dental research
-biomedical statistics
-effect size
-nonparametric tests
-data visualization
-Python
-open source
 repository-code: "https://github.com/msherifomar/ProMetrix"
 doi: "10.5281/zenodo.19429680"
+url: "https://doi.org/10.5281/zenodo.19429680"
+abstract: "ProMetrix Analytics is an open-source desktop application for statistical analysis and publication-quality visualization in dental and biomedical research."
+authors:
+
+family-names: "Omar"
+given-names: "M S"
+affiliation: "Indiana University School of Dentistry"
+keywords:
+"statistics"
+"prosthodontics"
+"dental research"
+"effect size"
+"Python"
+"open source"
